@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center">
-    [[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+👋...;I'm+Buddhi+Sampath!)](https://git.io/typing-svg)](https://readme-typing-svg.herokuapp.com/demo/?separator=%3C&lines=Hello+there!+%F0%9F%91%8B...;%3C+I'm+Buddhi+Sampath!)
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=010405&width=475&separator=%3C&lines=Hello+there!+%F0%9F%91%8B...;++I'm+Buddhi+Sampath!" alt="Typing SVG" /></a>
 </h1>
 
 <!--horizontal divider(gradiant)-->
