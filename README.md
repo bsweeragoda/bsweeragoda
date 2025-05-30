@@ -9,9 +9,14 @@
   </a>
 </p>
 
+
+<div align="center">
 <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=010405&width=475&separator=%3C&lines=Hello+there!+%F0%9F%91%8B...;++I'm+Buddhi+Sampath!" alt="Typing SVG" /></a>
 </h1>
+  <img src="https://github.com/user-attachments/assets/2cbdcb3e-fd74-4aa4-a4ba-52fb95263533" alt="Image" width="300"/>
+</div>
+
 
 <!--horizontal divider(gradiant)-->
 <hr/>
